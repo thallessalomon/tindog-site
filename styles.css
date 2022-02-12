@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+  padding-bottom: 5%;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+p{
+text-align: center;
+font-size: 1rem;
+padding-top: 10%;
+white-space:nowrap;
+color: grey;
+
+}
+#title {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7%;
+  color: white;
+
+
+}
+
+#features {
+  padding: 10% 44.5%;
+}
+.button {
+  margin: 0 1%;
+}
